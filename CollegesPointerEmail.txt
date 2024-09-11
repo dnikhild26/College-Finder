@@ -1,0 +1,4 @@
+bangalore@bangalore.edu|296|80
+bms@bms.edu|104|32
+ramaiah@ramaiah.edu|0|0
+rns@rns.edu|207|56

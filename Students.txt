@@ -1,0 +1,4 @@
+4|Piyush||Kumar|2002-5-23|Male|21|6201974533|piyush@gmail.com|Bangalore
+5|Ram||Kumar|2003-1-4|Male|20|5656899874|ram@gmail.com|Bangalore
+6|Riya||Kumari|2001-4-4|Male|22|9889566523|riya@gmail.com|Bangalore
+7|NIkhil||D|2003-9-17|Male|19|9856324512|nikhil@gmail.com|Bangalore
